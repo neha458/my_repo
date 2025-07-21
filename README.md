@@ -1,1 +1,2 @@
-# my_repo
+touch index.py
+print("Hello, GitHub!")
